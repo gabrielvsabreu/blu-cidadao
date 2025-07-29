@@ -15,7 +15,7 @@ function Header() {
       <nav className="flex justify-between items-center max-w-6xl mx-auto">
         <Link to="/">
           <img
-            src="/logo.png"
+            src="/blu-cidadao/public/logo.png"
             alt="Logo BluCidadão"
             className="h-13 -mt-3 cursor-pointer"
           />
